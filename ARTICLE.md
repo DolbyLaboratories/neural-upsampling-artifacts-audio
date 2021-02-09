@@ -98,7 +98,7 @@ Fig. 5 (row 1) shows that high-frequencies emerge due to partial overlap, which 
     <td align="center" colspan="2"><b>Fig. 5.</b> Transposed convolutions, w/o bias, with input set as ones.</td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><b>Code to experiment with these figures is at [Figures/Fig5.ipynb](Figures/Fig5.ipynb)</b></td>
+    <td align="center" colspan="2"><b>Code to experiment with these figures is at <a href="Figures/Fig5.ipynb">Figures/Fig5.ipynb</a></b></td>
   </tr>  
 </table>
 
@@ -153,7 +153,7 @@ nearest neighbor or linear interpolation (x2) + CNN (filters of length
 9, stride 1). Inputs at 4kHz: music (left), white noise (right).</td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><b>Code to experiment with these figures is at [Figures/Fig6_left.ipynb](Figures/Fig6_left.ipynb) and [Figures/Fig6_right.ipynb](Figures/Fig6_right.ipynb)</b></td>
+    <td align="center" colspan="2"><b>Code to experiment with these figures is at <a href="Figures/Fig6_left.ipynb">Figures/Fig6_left.ipynb</a> and <a href="Figures/Fig6_right.ipynb">Figures/Fig6_right.ipynb</a></b></td>
   </tr>   
 </table>
 
@@ -182,7 +182,7 @@ Based on convolution + reshape, subpixel CNN was proposed as an efficient1 upsam
     <td align="center" colspan="2"><b>Fig. 7.</b> Subpixel CNN: tonal artifacts after initialization. Each consecutive layer consists of a <br>CNN (w/ filters of length 3 and stride of 1) + reshape via the periodic shuffle operation (upsample x2)..</td>
   </tr> 
   <tr>
-    <td align="center" colspan="2"><b>Code to experiment with these figures is at [Figures/Fig7.ipynb](Figures/Fig7.ipynb)</b></td>
+    <td align="center" colspan="2"><b>Code to experiment with these figures is at <a href="Figures/Fig7.ipynb">Figures/Fig7.ipynb</a></b></td>
   </tr>    
 </table>
 
@@ -239,7 +239,7 @@ In signal processing, spectral replicas are normally removed with low-pass filte
 length=4, stride=2. Linear interpolation layers: without the interleaved convolutions. Inputs at 4kHz: ones (left), white noise (right).</td>
   </tr> 
   <tr>
-    <td align="center" colspan="2"><b>Code to experiment with these figures is at [Figures/Fig8_left.ipynb](Figures/Fig8_left.ipynb) and [Figures/Fig8_right.ipynb](Figures/Fig8_right.ipynb)</b></td>
+    <td align="center" colspan="2"><b>Code to experiment with these figures is at <a href="Figures/Fig8_left.ipynb">Figures/Fig8_left.ipynb</a> and <a href="Figures/Fig8_right.ipynb">Figures/Fig8_right.ipynb</a></b></td>
   </tr>    
 </table>
 
@@ -258,7 +258,7 @@ length=4, stride=2. Linear interpolation layers: without the interleaved convolu
     <td align="center" colspan="2"><b>Fig. 9.</b> Demucs modification after initialization: no ReLUs in the first layer and no biases, to avoid spectral replicas of signal offsets.</td>
   </tr> 
   <tr>
-    <td align="center" colspan="2"><b>[Code to experiment with these figures is at [Figures/Fig1_9.ipynb](Figures/Fig1_9.ipynb)]</b></td>
+    <td align="center" colspan="2"><b>Code to experiment with these figures is at <a href="Figures/Fig1_9.ipynb">Figures/Fig1_9.ipynb</a></b></td>
   </tr>    
 </table>
 

@@ -1,6 +1,6 @@
 # Upsampling Artifacts in Neural Audio Synthesis
 
-This repository contains a markdown copy of our article ([ARTICLE.md](ARTICLE.md)) with code to experiment with its figures:
+This repository contains a markdown copy of our article ([ARTICLE.md](ARTICLE.md)) and code to experiment with its figures:
 * **[Figures 1 and 9](Figures/Fig1_9.ipynb)**: experiment with several neural audio synthesizers that can produce upsampling artifacts.
 * **Figures 2, 3, 4**: conceptual figures, with no code to experiment with them.
 * **[Figure 5](Figures/Fig5.ipynb)**: understand that any transposed convolution setup, even with full or no overlap setups, produces a poor initialization (with tonal artifacts) due to the weights initalization.

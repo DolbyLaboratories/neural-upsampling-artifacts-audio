@@ -35,7 +35,7 @@ In sections 2, 3 and 4, we describe the origin of these upsampling artifacts. In
     <td align="center" colspan="2"><b>Fig. 1.</b> Upsampling artifacts after initialization: tonal artifacts (horizontal lines: a,b,d) and<br>filtering artifacts (horizontal valley: c). Input: white noise. MelGAN operates at 22kHz, Demucs at 44.1kHz.</td>
   </tr> 
   <tr>
-    <td align="center" colspan="2"><b>Code to experiment with these figures is at [Figures/Fig1_9.ipynb](Figures/Fig1_9.ipynb)</b></td>
+    <td align="center" colspan="2"><b>Code to experiment with these figures is at <a href="Figures/Fig1_9.ipynb">Figures/Fig1_9.ipynb</a></b></td>
   </tr>   
 </table>
 
